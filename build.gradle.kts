@@ -9,7 +9,7 @@ plugins {
     kotlin("plugin.jpa") version "1.4.30"
 }
 
-group = "net.grandcentrix.energy"
+group = "com.bogdanov.energy"
 version = "0.0.1"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
